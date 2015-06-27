@@ -1,0 +1,24 @@
+p {
+	float: left;
+	font-family: Courier;
+	font-size: 30px;
+	font-weight: bold;
+	margin: 0px 0px 0px 0px;
+}
+
+button {
+	float: right;
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+
+table {
+	border-collapse: collapse;
+	clear: both;
+}
+
+td {
+	height: 5px;
+	width: 5px;
+	border: 1px solid black;
+}
