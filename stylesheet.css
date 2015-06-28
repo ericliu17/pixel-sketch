@@ -1,15 +1,24 @@
 p {
 	float: left;
+}
+
+#name {
 	font-family: Courier;
 	font-size: 30px;
 	font-weight: bold;
 	margin: 0px 0px 0px 0px;
 }
 
+#instructions {
+	font-family: sans-serif;
+	font-size: 15px;
+	margin: 13px 0px 0px 5px;
+}
+
 button {
 	float: right;
     font-size: 12px;
-    margin-bottom: 5px;
+    margin-top: 10px;
 }
 
 table {
@@ -20,5 +29,5 @@ table {
 td {
 	height: 5px;
 	width: 5px;
-	border: 1px solid black;
+	border: 1px solid gray;
 }
